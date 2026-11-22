@@ -21,8 +21,8 @@ Este repositório reúne o tratamento dos dados das caracterizações das nanopa
 IP-1/
 ├── README.md
 ├── Cabecalho.png
-├── XPS_ajuste_picos.ipynb                # análise de XPS
-├── FTIR_RAMAN_MEV_CONDUÇÃOCALOR.ipynb    # Raman, FTIR, condução de calor e MEV
+├── XPS_ajuste_picos.ipynb                
+├── FTIR_RAMAN_MEV_CONDUÇÃOCALOR.ipynb    
 ├── dados_xps/
 │   ├── XPS Survey.avg
 │   ├── C1s Scan.avg
